@@ -1,0 +1,51 @@
+# Coin Of Inter-Commerce (COI)
+
+Coin Of Inter-Commerce ($COI) is the official utility token of the Hosanna Coin Foundation, a mission-driven multi-chain crypto initiative designed to empower digital sovereignty, charitable impact, and decentralized innovation across Ethereum, Solana, and XRPL networks.
+
+---
+
+## 🔹 Token Details
+
+- **Token Name**: Coin Of Inter-Commerce  
+- **Ticker Symbol**: COI  
+- **Total Supply**: 27,000,000 COI  
+- **Chain**: Ethereum (ERC-20 Upgradeable)  
+- **Contract Address**: [`0x5A88501cBeD7cae28B557402E186a0b5F742179a`](https://etherscan.io/address/0x5A88501cBeD7cae28B557402E186a0b5F742179a)
+
+---
+
+## ⚙️ Contract Features
+
+This contract was deployed via [Thirdweb](https://thirdweb.com) using their upgradeable ERC-20 standard with the following features:
+
+- ✅ **Upgradeable** via OpenZeppelin proxies  
+- ✅ **Gasless Transactions** (meta-transaction compatible)  
+- ✅ **Minted Supply Sent to Liquidity Pool (LP)**  
+- ✅ **No admin-held token reserve**  
+- ✅ **Contract metadata permissions** (via `_canSetContractURI()` override)  
+
+---
+
+## 🔐 Ownership & Transparency
+
+The full 27 million tokens were minted directly into the official liquidity pool, with no private allocations or developer holds. This supports our vision for open, trustless commerce.
+
+---
+
+## 📜 License
+
+This project is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+## 🌐 Project Links
+
+- 🔗 Website: [https://coicash.com](https://coicash.com)  
+- 📝 Whitepaper: [https://coicash.com/whitepaper](https://coicash.com/whitepaper)  
+- 🐦 Twitter: [https://twitter.com/CoiMultiChain](https://twitter.com/CoiMultiChain)
+
+---
+
+## ✝️ Powered by Hosanna
+
+This token is part of the broader **Hosanna Coin Foundation** ecosystem — creating righteous tools for a decentralized future.
